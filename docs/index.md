@@ -4,6 +4,7 @@
 
 layout: default
 show_downloads: false
+show_cv: true
 ---
 
 # Barry Ryan Homepage
