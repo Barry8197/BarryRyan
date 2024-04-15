@@ -22,7 +22,7 @@ My research interests are :
 [Link](https://onehealthgenomics.ed.ac.uk/barry-ryan) to an interview I performed with One Health Genomics in Edinburgh as part of their GettingGenomeSeries.
 
 ### Edinburgh Next Generation of Genomics Symposium (ENGoGS) | November '23
-Awarded best presentation at the [ENGoGS conference](https://onehealthgenomics.ed.ac.uk/news-and-events/ohge-event%C3%A5s/edinburgh-next-generation-genomics-symposium-2023). 
+Awarded best presentation at the ENGoGS conference. 
 
 ### Poster Presentation at Intelligent Systmes for Molecular Biology (ISMB) | July '24
 Was selected to present a poster at the international ISMB conference in Lyon. Click <a href="/barryryan/mydocs/barry_ismb_poster.pdf">here</a> to view the poster. 
