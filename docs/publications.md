@@ -21,11 +21,7 @@ In this paper, we look at two disease subgroups: those who have a mutation in a 
 
 <br><br>
 
-<<<<<<< HEAD
-<img style="margin-left: 1rem" align="left" src="/../../../mydocs/year3_flow.png" width = "1000px" > 
-=======
 <img style="margin-left: 1rem" align="left" src="/barryryan/mydocs/year3_flow.png" width = "1000px" > 
->>>>>>> 1a4fe32 (fix bug)
 
 <br><br>
 
@@ -36,11 +32,8 @@ Finally, we found that a combination of SNP and DNAm achieved excellent stratifi
 For more information find the preprint to our paper online [here](https://www.medrxiv.org/content/10.1101/2024.01.25.24301595v2)
 
 # Multi-Omic Graph Diagnosis (MOGDx) : A data integration tool to perform classification tasks for heterogenous diseases
-<<<<<<< HEAD
-<img style="margin-left: 2rem" align="right" src="/../../mydocs/pipeline.jpg" width = "500px" >
-=======
+
 <img style="margin-left: 2rem" align="right" src="/barryryan/mydocs/pipeline.jpg" width = "500px" >
->>>>>>> 1a4fe32 (fix bug)
 
 #### *Barry Ryan , Riccardo Marioni and T. Ian Simpson*
 
