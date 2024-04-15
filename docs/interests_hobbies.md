@@ -27,7 +27,7 @@ I am a keen supporter of both the Munster and Ireland Rugby teams.
 </div>
 
 <div style="float: right; margin-left: 10px;">
-  <img src="/barryryan/mydocs/munster.png"alt="Right Image" width="20%">
+  <img src="/barryryan/mydocs/IMG_2617.jpg"alt="Right Image" width="20%">
 </div>
 
 
@@ -39,7 +39,7 @@ I enjoy running in my spare time. I have completed one marathon, a handful of ha
 </div>
 
 <div style="float: right; margin-left: 10px;">
-  <img src="/barryryan/mydocs/run2.JPG"alt="Right Image" width="20%">
+  <img src="/barryryan/mydocs/IMG_2617.jpg"alt="Right Image" width="20%">
 </div>
 
 # Music
