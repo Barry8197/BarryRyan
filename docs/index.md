@@ -24,7 +24,7 @@ My research interests are :
 ### Edinburgh Next Generation of Genomics Symposium (ENGoGS) | November '23
 Awarded best presentation at the ENGoGS conference. 
 
-### Poster Presentation at Intelligent Systmes for Molecular Biology (ISMB) | July '24
+### Poster Presentation at Intelligent Systmes for Molecular Biology (ISMB) | July '23
 Was selected to present a poster at the international ISMB conference in Lyon. Click <a href="/barryryan/mydocs/barry_ismb_poster.pdf">here</a> to view the poster. 
 
 
