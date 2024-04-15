@@ -8,15 +8,15 @@ permalink: /interests_hobbies/
 <br>
 
 <div style="float: left; margin-right: 10px;">
-  <img src="/barryryan/mydocs/IMG_2617.jpg" alt="Left Image" width="300px">
+  <img src="/barryryan/mydocs/IMG_2617.jpg" alt="Left Image" width="350px">
 </div>
 
 <div style="float: right; margin-left: 10px;">
-  <img src="/barryryan/mydocs/IMG_2792.jpg" alt="Right Image" width="300px">
+  <img src="/barryryan/mydocs/IMG_2792.jpg" alt="Right Image" width="350px">
 </div>
 
 <div>
-  <img src="/barryryan/mydocs/IMG_2792.jpg" width="700px">
+  <img src="/barryryan/mydocs/gaa3.JPG" width="700px">
 </div>
 
 <br><br>
@@ -24,11 +24,11 @@ permalink: /interests_hobbies/
 I am a keen supporter of both the Munster and Ireland Rugby teams. 
 <br>
 <div style="float: left; margin-right: 10px;">
-  <img src="/barryryan/mydocs/rugby1.JPG" alt="Left Image" width="300px">
+  <img src="/barryryan/mydocs/rugby1.JPG" alt="Left Image" width="350px">
 </div>
 
 <div style="float: right; margin-left: 10px;">
-  <img src="/barryryan/mydocs/munster.png"alt="Right Image" width="300px">
+  <img src="/barryryan/mydocs/munster.png"alt="Right Image" width="350px">
 </div>
 <br><br>
 
@@ -37,11 +37,11 @@ I enjoy running in my spare time. I have completed one marathon, a handful of ha
 <br>
 
 <div style="float: left; margin-right: 10px;">
-  <img src="/barryryan/mydocs/IMG_4094.jpg" alt="Left Image" width="300px">
+  <img src="/barryryan/mydocs/IMG_4094.jpg" alt="Left Image" width="350px">
 </div>
 
 <div style="float: right; margin-left: 10px;">
-  <img src="/barryryan/mydocs/run2.JPG"alt="Right Image" width="300px">
+  <img src="/barryryan/mydocs/run2.JPG"alt="Right Image" width="350px">
 </div>
 
 <br><br>
