@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 # An Integrative Network Approach for Longitudinal Stratification in Parkinson's Disease
 
-<img style="margin-left: 2rem" align="right" src="/../mydocs/baseline_comparison.png" width = "500px" >
+<img style="margin-left: 2rem" align="right" src="mydocs/baseline_comparison.png" width = "500px" >
 
 #### *Barry Ryan , Riccardo Marioni and T. Ian Simpson*
 
@@ -21,7 +21,7 @@ In this paper, we look at two disease subgroups: those who have a mutation in a 
 
 <br><br>
 
-<img style="margin-left: 1rem" align="left" src="/../mydocs/year3_flow.png" width = "1000px" > 
+<img style="margin-left: 1rem" align="left" src="mydocs/year3_flow.png" width = "1000px" > 
 
 <br><br>
 
@@ -32,7 +32,7 @@ Finally, we found that a combination of SNP and DNAm achieved excellent stratifi
 For more information find the preprint to our paper online [here](https://www.medrxiv.org/content/10.1101/2024.01.25.24301595v2)
 
 # Multi-Omic Graph Diagnosis (MOGDx) : A data integration tool to perform classification tasks for heterogenous diseases
-<img style="margin-left: 2rem" align="right" src="/../mydocs/pipeline.jpg" width = "500px" >
+<img style="margin-left: 2rem" align="right" src="mydocs/pipeline.jpg" width = "500px" >
 
 #### *Barry Ryan , Riccardo Marioni and T. Ian Simpson*
 
