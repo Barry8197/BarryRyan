@@ -9,9 +9,6 @@ permalink: /contact/
 - **Primary:**    [barry.ryan@ed.ac.uk](mailto:barry.ryan@ed.ac.uk)
 - **Secondary:** [barryj.ryan08@gmail.com](mailto:barryj.ryan08@gmail.com)
 
-### Phone
-- **Phone:** +44 7493356081
-
 ### LinkedIn
 [https://www.linkedin.com/in/barry-ryan/](https://www.linkedin.com/in/barry-ryan/)
 
