@@ -37,7 +37,7 @@ I enjoy running in my spare time. I have completed one marathon, a handful of ha
 <br>
 
 <div style="float: left; margin-right: 10px;">
-  <img src="/barryryan/mydocs/IMG_4094.jpg" alt="Left Image" width="300">
+  <img src="/barryryan/mydocs/run2.JPG" alt="Left Image" width="300">
 </div>
 
 <div style="float: right; margin-left: 10px;">
