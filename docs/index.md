@@ -18,12 +18,15 @@ My research interests are :
 - Genomic Datasets
 
 ## Highlights
+### Interview for #GettingGenomeMe | March '24
+[Link](https://onehealthgenomics.ed.ac.uk/barry-ryan) to an interview I performed with One Health Genomics in Edinburgh as part of their GettingGenomeSeries.
 
+### Edinburgh Next Generation of Genomics Symposium (ENGoGS) | November '23
+Awarded best presentation at the [ENGoGS conference](https://onehealthgenomics.ed.ac.uk/news-and-events/ohge-event%C3%A5s/edinburgh-next-generation-genomics-symposium-2023). 
 
-## List of Publications
-1. Ryan, Barry, Riccardo E. Marioni, and T. Ian Simpson. "An Integrative Network Approach for Longitudinal Stratification in Parkinson’s Disease." *medRxiv* (2024): 2024-01. [https://doi.org/10.1101/2024.01.25.24301595](https://doi.org/10.1101/2024.01.25.24301595) <br>
-2. Ryan, Barry, Riccardo E. Marioni, and T. Ian Simpson. "Multi-Omic Graph Diagnosis (MOGDx): A data integration tool to perform classification tasks for heterogeneous diseases." *medRxiv* (2023): 2023-07. [https://doi.org/10.1101/2023.07.09.23292410](https://doi.org/10.1101/2023.07.09.23292410) <br>
-3. Merzbacher, C., Ryan, B., Goldsborough, T. et al. Integration of datasets for individual prediction of DNA methylation-based biomarkers. *Genome Biol* 24, 278 (2023). [https://doi.org/10.1186/s13059-023-03114-5](https://doi.org/10.1186/s13059-023-03114-5)
+### Poster Presentation at Intelligent Systmes for Molecular Biology (ISMB) | July '24
+Was selected to present a poster at the international ISMB conference in Lyon. Click <a href="/barryryan/mydocs/barry_ismb_poster.pdf"class="btn">here</a> to view poster. 
+
 
 
 
