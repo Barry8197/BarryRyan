@@ -1,7 +1,7 @@
 ---
 layout: custom
 title: Barry Ryan
-permalink: /contact/
+permalink: /barryryan/contact/
 ---
 ## Contact Me
 
