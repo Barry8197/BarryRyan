@@ -4,3 +4,4 @@ show_cv: true
 google_analytics:
 theme: jekyll-theme-cayman
 include: ['_includes','_layouts']
+baseurl: "/barryryan"
