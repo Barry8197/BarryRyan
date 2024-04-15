@@ -8,7 +8,7 @@ layout: custom
 <img style="margin-left: 2rem" align="right" src="mydocs/profile_pic.jpg" width = "300px" >
 
 ## About Me
-My name is Barry Ryan. I am an early career researcher pursuing my PhD at the University of Edinburgh. I come from Cork, Ireland where I live until moving to Edinburgh, UK where I currently live. I enjoy using data science and artificial intelligence to obtain insights into complex biological datasets. My current research looks at representing genomic data as networks and using graph neural network algorithm to perform insightful classifications. 
+My name is Barry Ryan. I am an early career researcher pursuing my PhD at the University of Edinburgh. I come from Cork, Ireland where I lived until moving to Edinburgh, UK where I currently live. I enjoy using data science and artificial intelligence to obtain insights into complex biological datasets. My current research looks at representing genomic data as networks and using graph neural network algorithm to perform insightful classifications. 
 
 My research interests are : 
 - Networks

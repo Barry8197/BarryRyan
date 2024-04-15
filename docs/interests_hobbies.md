@@ -6,36 +6,44 @@ permalink: /interests_hobbies/
 # Gaelic Football
 [Gaelic Football](https://en.wikipedia.org/wiki/Gaelic_football) is an Irish sport that I have played since I was 5 years old. Currently, I am a member of Dunedin Connolys, the local team in Edinburgh. 
 <br>
-<p align="right">
-<img  src="/barryryan/mydocs/IMG_2617.jpg" width = "400px" height = "300px" >
-</p>
-<p align="left">
-<img  align="left" src="/barryryan/mydocs/IMG_2792.jpg" width = "400px" height = "300px" >
-</p>
-<p align="center">
-<img  src="/barryryan/mydocs/gaa3.JPG" width = "700px" >
-</p>
+
+<div style="float: left; margin-right: 10px;">
+  <img src="/barryryan/mydocs/IMG_2617.jpg" alt="Left Image" width="300px">
+</div>
+
+<div style="float: right; margin-left: 10px;">
+  <img src="/barryryan/mydocs/IMG_2792.jpg" alt="Right Image" width="300px">
+</div>
+
+<div>
+  <img src="/barryryan/mydocs/IMG_2792.jpg" width="700px">
+</div>
+
 <br><br>
 # Rugby
 I am a keen supporter of both the Munster and Ireland Rugby teams. 
 <br>
-<p align="right">
-<img  align="right" src="/barryryan/mydocs/rugby1.JPG" width = "400px" height = "300px" >
-</p>
-<p align="left">
-<img  align="left" src="/barryryan/mydocs/munster.png" width = "400px" height = "300px" >
-</p>
+<div style="float: left; margin-right: 10px;">
+  <img src="/barryryan/mydocs/rugby1.JPG" alt="Left Image" width="300px">
+</div>
+
+<div style="float: right; margin-left: 10px;">
+  <img src="/barryryan/mydocs/munster.png"alt="Right Image" width="300px">
+</div>
 <br><br>
 
 # Running
 I enjoy running in my spare time. I have completed one marathon, a handful of half marathons and one trail run at the half marathon distance. 
 <br>
-<p align="right">
-<img align="right" src="/barryryan/mydocs/IMG_4094.jpg" width = "400px" height = "300px" >
-</p>
-<p align="left">
-<img align="left" src="/barryryan/mydocs/run2.JPG" width = "400px" height = "300px" >
-</p>
+
+<div style="float: left; margin-right: 10px;">
+  <img src="/barryryan/mydocs/IMG_4094.jpg" alt="Left Image" width="300px">
+</div>
+
+<div style="float: right; margin-left: 10px;">
+  <img src="/barryryan/mydocs/run2.JPG"alt="Right Image" width="300px">
+</div>
+
 <br><br>
 
 # Music
