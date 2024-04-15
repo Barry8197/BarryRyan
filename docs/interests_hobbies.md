@@ -8,11 +8,11 @@ permalink: /interests_hobbies/
 <br>
 
 <div style="float: left; margin-right: 10px;">
-  <img src="/barryryan/mydocs/IMG_2617.jpg" alt="Left Image" width="20%">
+  <img src="/barryryan/mydocs/IMG_2617.jpg" alt="Left Image" width="60%">
 </div>
 
 <div style="float: right; margin-left: 10px;">
-  <img src="/barryryan/mydocs/IMG_2792.jpg" alt="Right Image" width="20%">
+  <img src="/barryryan/mydocs/IMG_2792.jpg" alt="Right Image" width="60%">
 </div>
 
 <img src="/barryryan/mydocs/gaa3.JPG" width="80%">
@@ -22,18 +22,18 @@ permalink: /interests_hobbies/
 I am a keen supporter of both the Munster and Ireland Rugby teams. 
 
 <div style="float: left; margin-right: 10px;">
-  <img src="/barryryan/mydocs/IMG_2617.jpg" alt="Left Image" width="20%">
+  <img src="/barryryan/mydocs/munster.png" alt="Left Image" width="50%">
 </div>
 
 <div style="float: right; margin-left: 10px;">
-  <img src="/barryryan/mydocs/rugby1.JPG" alt="Right Image" width="20%">
+  <img src="/barryryan/mydocs/rugby1.JPG" alt="Right Image" width="50%">
 </div>
 
 # Running
 I enjoy running in my spare time. I have completed one marathon, a handful of half marathons and one trail run at the half marathon distance. 
 
 <div style="float: left; margin-right: 10px;">
-  <img src="/barryryan/mydocs/IMG_2617.jpg" alt="Left Image" width="20%">
+  <img src="/barryryan/mydocs/IMG_4094.jpg" alt="Left Image" width="20%">
 </div>
 
 <div style="float: right; margin-left: 10px;">
