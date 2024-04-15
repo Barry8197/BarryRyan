@@ -25,7 +25,7 @@ My research interests are :
 Awarded best presentation at the [ENGoGS conference](https://onehealthgenomics.ed.ac.uk/news-and-events/ohge-event%C3%A5s/edinburgh-next-generation-genomics-symposium-2023). 
 
 ### Poster Presentation at Intelligent Systmes for Molecular Biology (ISMB) | July '24
-Was selected to present a poster at the international ISMB conference in Lyon. Click <a href="/barryryan/mydocs/barry_ismb_poster.pdf"class="btn">here</a> to view poster. 
+Was selected to present a poster at the international ISMB conference in Lyon. Click <a href="/barryryan/mydocs/barry_ismb_poster.pdf">here</a> to view poster. 
 
 
 
