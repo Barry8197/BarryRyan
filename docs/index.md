@@ -19,7 +19,7 @@ My research interests are :
 
 ## Highlights
 ### Presentation at Conference in AI For Health (CAI4H) | May '24
-Had the opportunity to give a 10 min talk explaining my project 'An Integrative Network Approach for Longitudinal Stratification in Parkinson's Disease at the CAI4H conference in Edinburgh. 
+Had the opportunity to give a 10 min talk explaining my project "An Integrative Network Approach for Longitudinal Stratification in Parkinson's Disease" at the CAI4H conference in Edinburgh. 
 
 ### Interview for #GettingGenomeMe | March '24
 [Link](https://onehealthgenomics.ed.ac.uk/barry-ryan) to an interview I performed with One Health Genomics in Edinburgh as part of their GettingGenomeSeries.
