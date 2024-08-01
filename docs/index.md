@@ -23,7 +23,7 @@ Had a fantastic trip to hashtag#ISMB24 in Montreal. Alongside Sebestyén Kamp, I
 
 The materials can be found at this [link](https://biomedicalai.inf.ed.ac.uk/book/intro.html)
 
-I also had the opportunity to present a poster on a recent preprint titled 'An Integrative Approach for Longitudinal Classification in Parkinson's Disease'. Click <a href="/barryryan/mydocs/Ryan_CDT_poster.pdf">here</a> to view the poster. 
+I also had the opportunity to present a poster on a recent preprint titled 'An Integrative Approach for Longitudinal Classification in Parkinson's Disease'. Click <a href="/barryryan/mydocs/Ryan_CDT_Poster.pdf">here</a> to view the poster. 
 
 ### Presentation at Conference in AI For Health (CAI4H) | May '24
 Had the opportunity to give a 10 min talk explaining my project "An Integrative Network Approach for Longitudinal Stratification in Parkinson's Disease" at the CAI4H conference in Edinburgh. 
