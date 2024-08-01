@@ -18,6 +18,13 @@ My research interests are :
 - Genomic Datasets
 
 ## Highlights
+### Workshop and Presentation at ISMB | July '24
+Had a fantastic trip to hashtag#ISMB24 in Montreal. Alongside Sebestyén Kamp, Ian Simpson, Chaeeun Lee and Hanane Issa, we presented a full day introductory workshop on 'Modelling Multi-Modal Biomedical Data Using Networks'. Personally, teaching material related to my PhD was a great way to see the progress I've made over the last 3 years and very rewarding to share this knowledge with others. 
+
+The materials can be found at : https://biomedicalai.inf.ed.ac.uk/book/intro.html
+
+I also had the opportunity to present a poster on a recent preprint titled 'An Integrative Approach for Longitudinal Classification in Parkinson's Disease'. Click <a href="/barryryan/mydocs/Ryan_CDT_poster.pdf">here</a> to view the poster. 
+
 ### Presentation at Conference in AI For Health (CAI4H) | May '24
 Had the opportunity to give a 10 min talk explaining my project "An Integrative Network Approach for Longitudinal Stratification in Parkinson's Disease" at the CAI4H conference in Edinburgh. 
 
