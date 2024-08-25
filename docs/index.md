@@ -18,6 +18,12 @@ My research interests are :
 - Genomic Datasets
 
 ## Highlights
+### Publication of MOGDx in Bioinformatics | Aug '24
+I've had my first solo first author publication in [Bioinformatics](https://doi.org/10.1093/bioinformatics/btae523). It's been more than two years in the making and hopefully a good sign for more to come. 
+
+### Presentation at Machine Learning in Science Conference | Aug '24
+Really enjoyed presenting my work on Parkinson's Disease at the MLiS conference in Glasgow. Had some really interesting questions about identifying subpopulations in PD and discussing the predictive accuracy when using genomic datasets for homogenous disease populations with genetic effects.
+
 ### Workshop and Presentation at ISMB | July '24
 Had a fantastic trip to hashtag#ISMB24 in Montreal. Alongside Sebestyén Kamp, Ian Simpson, Chaeeun Lee and Hanane Issa, we presented a full day introductory workshop on 'Modelling Multi-Modal Biomedical Data Using Networks'. Personally, teaching material related to my PhD was a great way to see the progress I've made over the last 3 years and very rewarding to share this knowledge with others. 
 
