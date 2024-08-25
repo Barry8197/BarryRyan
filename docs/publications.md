@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 # List of Publications
 1. Ryan, Barry, Riccardo E. Marioni, and T. Ian Simpson. "An Integrative Network Approach for Longitudinal Stratification in Parkinson’s Disease." *medRxiv* (2024): 2024-01. [https://doi.org/10.1101/2024.01.25.24301595](https://doi.org/10.1101/2024.01.25.24301595) <br>
-2. Ryan, Barry, Riccardo E. Marioni, and T. Ian Simpson. "Multi-Omic Graph Diagnosis (MOGDx): A data integration tool to perform classification tasks for heterogeneous diseases." *medRxiv* (2023): 2023-07. [https://doi.org/10.1101/2023.07.09.23292410](https://doi.org/10.1101/2023.07.09.23292410) <br>
+2. Ryan, Barry, Riccardo E. Marioni, and T. Ian Simpson. "Multi-Omic Graph Diagnosis (MOGDx): A data integration tool to perform classification tasks for heterogeneous diseases. Bioinformatics, 2024;, btae523, [https://doi.org/10.1093/bioinformatics/btae523](https://doi.org/10.1093/bioinformatics/btae523) <br>
 3. Merzbacher, C., Ryan, B., Goldsborough, T. et al. Integration of datasets for individual prediction of DNA methylation-based biomarkers. *Genome Biol* 24, 278 (2023). [https://doi.org/10.1186/s13059-023-03114-5](https://doi.org/10.1186/s13059-023-03114-5)
 
 # Quick Summary
@@ -41,4 +41,4 @@ MOGDx incorporates a network taxonomy for data integration and utilises a graph 
 
 The performance of MOGDx was benchmarked on three distinct datasets from The Cancer Genome Atlas ([TCGA](https://www.cancer.gov/ccg/research/genome-sequencing/tcga)) for breast invasive carcinoma, kidney cancer, and low grade glioma. MOGDx demonstrated state-of-the-art performance and an ability to identify relevant multi-omic markers in each task. It did so while integrating more genomic measures with greater patient coverage compared to other network integrative methods. MOGDx is available to download from [GitHub](https://github.com/biomedicalinformaticsgroup/MOGDx). 
 
-For more information find the preprint to our paper online [here](https://www.medrxiv.org/content/10.1101/2023.07.09.23292410v2)
+For more information find the paper online [here](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btae523/7739700)
