@@ -5,6 +5,14 @@
 layout: custom
 ---
 
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K2DNNVMM');</script>
+<!-- End Google Tag Manager -->
+
 <img style="margin-left: 2rem" align="right" src="mydocs/profile_pic.jpg" width = "300px" >
 
 ## About Me
@@ -43,7 +51,10 @@ Awarded best presentation at the ENGoGS conference.
 ### Poster Presentation at Intelligent Systmes for Molecular Biology (ISMB) | July '23
 Was selected to present a poster at the international ISMB conference in Lyon. Click <a href="/barryryan/mydocs/barry_ismb_poster.pdf">here</a> to view the poster. 
 
-
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K2DNNVMM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
 
 
