@@ -13,7 +13,7 @@ permalink: /publications/
 
 ## Combining Clinical Embeddings with Multi-Omic Features for Improved Patient Classification and Interpretability in Parkinson’s Disease
 
-<img style="margin-left: 1rem" align="left" src="/barryryan/mydocs/pipeline_mollm.png" width = "500px" >
+<img style="margin-left: 1rem" align="left" src="/barryryan/mydocs/pipeline_mollm.png" width = "1000px" >
 
 #### *Barry Ryan, Chaeeun Lee, Riccardo Marioni, Pasquale Minervini, and T. Ian Simpson*
 
