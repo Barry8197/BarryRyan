@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 # List of Publications
 1. Ryan, Barry, Riccardo E. Marioni, and T. Ian Simpson. "Multi-Omic Graph Diagnosis (MOGDx): A data integration tool to perform classification tasks for heterogeneous diseases. Bioinformatics, 2024;, btae523, [https://doi.org/10.1093/bioinformatics/btae523](https://doi.org/10.1093/bioinformatics/btae523) <br>
-2. Ryan, B., Lee, C., Marioni, R. E., Minervini, P. & Simpson, T. I. Combining Clinical Embeddings with Multi-Omic Features for Improved Patient Classification and Interpretability in Parkinson’s Disease. 2025.01.17.25320664 Preprint at https://doi.org/10.1101/2025.01.17.25320664 (2025).
+2. Ryan, B., Lee, C., Marioni, R. E., Minervini, P. & Simpson, T. I. Combining Clinical Embeddings with Multi-Omic Features for Improved Patient Classification and Interpretability in Parkinson’s Disease. 2025.01.17.25320664 Preprint at [https://doi.org/10.1101/2025.01.17.25320664](https://doi.org/10.1101/2025.01.17.25320664) (2025).
 3. Ryan, Barry, Riccardo E. Marioni, and T. Ian Simpson. "An Integrative Network Approach for Longitudinal Stratification in Parkinson’s Disease." *medRxiv* (2024): 2024-01. [https://doi.org/10.1101/2024.01.25.24301595](https://doi.org/10.1101/2024.01.25.24301595) <br>
 4. Merzbacher, C., Ryan, B., Goldsborough, T. et al. Integration of datasets for individual prediction of DNA methylation-based biomarkers. *Genome Biol* 24, 278 (2023). [https://doi.org/10.1186/s13059-023-03114-5](https://doi.org/10.1186/s13059-023-03114-5)
 
