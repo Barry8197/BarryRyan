@@ -13,7 +13,7 @@ permalink: /publications/
 
 ## Combining Clinical Embeddings with Multi-Omic Features for Improved Patient Classification and Interpretability in Parkinson’s Disease
 
-<img style="margin-left: 2rem" align="right" src="/barryryan/mydocs/pipeline_mollm.png" width = "500px" >
+<img style="margin-left: 1rem" align="left" src="/barryryan/mydocs/pipeline_mollm.png" width = "500px" >
 
 #### *Barry Ryan, Chaeeun Lee, Riccardo Marioni, Pasquale Minervini, and T. Ian Simpson*
 
@@ -24,6 +24,8 @@ In this study, we have generated patient similarity networks from the Movement D
 Similarity was measured via distance derived from Large Language Model (LLM) text embedding space. Models were trained to classify healthy controls from PD patients in the Parkinson’s Progression Markers Initiative (PPMI) dataset using the Multi Omic Graph Diagnosis (MOGDx) framework. Further work was done to identify molecular signals using the [PNet](https://www.nature.com/articles/s41586-021-03922-4) framework. The original encoder architecture from MOGDx was replaced with the biologically interpretable PNet archictecture. 
 
 We benchmarked our approach using the baseline time point from the PPMI dataset, identifying the Llama-3.2-1B text embedding model on Part III of the MDS-UPDRS as the most informative. We further validated the framework at years 1, 2, and 3 post-baseline, achieving significance in identifying PD associated genes from a random null set by year 2 and replicating the association of MAPK with PD in a heterogeneous cohort. Our findings demonstrate that combining clinical text embeddings with genomic features is critical for both classification and interpretation.
+
+For more information find the paper online [here](https://www.medrxiv.org/content/10.1101/2025.01.17.25320664v1)
 
 ## Multi-Omic Graph Diagnosis (MOGDx) : A data integration tool to perform classification tasks for heterogenous diseases
 
