@@ -26,6 +26,12 @@ My research interests are :
 - Genomic Datasets
 
 ## Highlights
+### New pre-print | Jan '25
+New pre-print submitted to ISMB'25. See [Publications](./publications.md) for more info.
+
+### Data Scientist with Optima Partners | Dec '24
+For the previous few months I have enjoyed working part-time with Bioxcelerate AI, the healthcare focused division of Optima Partners. It's given me a great insight into industry and I enjoiyed it very much.
+
 ### Publication of MOGDx in Bioinformatics | Aug '24
 I've had my first solo first author publication in [Bioinformatics](https://doi.org/10.1093/bioinformatics/btae523). It's been more than two years in the making and hopefully a good sign for more to come. 
 
