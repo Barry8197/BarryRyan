@@ -13,9 +13,9 @@ permalink: /publications/
 
 ## Combining Clinical Embeddings with Multi-Omic Features for Improved Patient Classification and Interpretability in Parkinson’s Disease
 
-<img style="margin-left: 1rem" align="left" src="/barryryan/mydocs/pipeline_mollm.png" width = "1000px" >
-
 #### *Barry Ryan, Chaeeun Lee, Riccardo Marioni, Pasquale Minervini, and T. Ian Simpson*
+
+<img style="margin-left: 1rem" align="left" src="/barryryan/mydocs/pipeline_mollm.png" width = "1000px" >
 
 Parkinson's disease (PD) is a complex neurodegenerative disorder with no single explanation for its pathology. There are many known associations with the development of PD. For example, individual point mutations in genes such as *LRRK2* and *SNCA* can cause monogenic forms of the disease, but other cases have been heavily associated with environmental factors such as exposure to toxins. Not every individual with PD will experience the full spectrum of PD symptoms. In most cases, the reverse is true, where patients will only experience a subset of symptoms, but which symptoms, to what degree and how quickly all remain unanswered questions.
 
