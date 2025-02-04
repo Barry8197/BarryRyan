@@ -3,6 +3,17 @@ layout: custom
 title: Barry Ryan
 permalink: /publications/
 ---
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FDELN7W241"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FDELN7W241');
+</script>
+
 # List of Publications
 1. Ryan, Barry, Riccardo E. Marioni, and T. Ian Simpson. "Multi-Omic Graph Diagnosis (MOGDx): A data integration tool to perform classification tasks for heterogeneous diseases. Bioinformatics, 2024;, btae523, [https://doi.org/10.1093/bioinformatics/btae523](https://doi.org/10.1093/bioinformatics/btae523) <br>
 2. Ryan, B., Lee, C., Marioni, R. E., Minervini, P. & Simpson, T. I. Combining Clinical Embeddings with Multi-Omic Features for Improved Patient Classification and Interpretability in Parkinson’s Disease. 2025.01.17.25320664 Preprint at [https://doi.org/10.1101/2025.01.17.25320664](https://doi.org/10.1101/2025.01.17.25320664) (2025).

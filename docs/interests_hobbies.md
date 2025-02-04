@@ -3,6 +3,16 @@ layout: custom
 title: Barry Ryan
 permalink: /interests_hobbies/
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FDELN7W241"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FDELN7W241');
+</script>
+
 # Gaelic Football
 [Gaelic Football](https://en.wikipedia.org/wiki/Gaelic_football) is an Irish sport that I have played since I was 5 years old. Currently, I am a member of Dunedin Connolys, the local team in Edinburgh. 
 <br>
