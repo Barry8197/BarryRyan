@@ -1,6 +1,6 @@
 title: Barry Ryan
 description: I am PhD Candidate at the University of Edinburgh on the Biomedical Artificial Intelligence CDT Programme. <br> My research seeks to integrate biological datasets using network taxonomies and to perform insightful classifications in heterogenous diseases using graph neural networks.
 show_cv: true
-html: google_analytics_id: G-FDELN7W241
+google_analytics_id: G-FDELN7W241
 theme: jekyll-theme-cayman
 include: ['_includes','_layouts']
